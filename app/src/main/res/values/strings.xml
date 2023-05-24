@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoreSports</string>
+
+    <string name="ver_noticias">See published news</string>
+    <string name="nova_noticia">Publish new news</string>
+
+    <string name="noticia_titulo">New news</string>
+    <string name="noticia_hint_titulo">Title</string>
+    <string name="noticia_hint_noticia">Write the news</string>
+    <string name="noticia_hint_data">Publication date</string>
+    <string name="noticia_hint_autor">Author</string>
+    <string name="noticia_button_publicar">Publish</string>
+
+</resources>

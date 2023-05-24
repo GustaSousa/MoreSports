@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "770676017594",
+    "project_id": "aulamobile-b6233",
+    "storage_bucket": "aulamobile-b6233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770676017594:android:801fe4bd3f54bb6d12f583",
+        "android_client_info": {
+          "package_name": "com.example.empregaeu4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770676017594-tgl7ak2eogbh2lsb57airckkb6dvk7n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKTJ1fVisCzZ6P6Doi2u-cwQXV-OjoeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770676017594-tgl7ak2eogbh2lsb57airckkb6dvk7n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770676017594:android:29be1f854a5a7ac612f583",
+        "android_client_info": {
+          "package_name": "com.gustasousa.moresports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770676017594-tgl7ak2eogbh2lsb57airckkb6dvk7n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKTJ1fVisCzZ6P6Doi2u-cwQXV-OjoeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770676017594-tgl7ak2eogbh2lsb57airckkb6dvk7n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
