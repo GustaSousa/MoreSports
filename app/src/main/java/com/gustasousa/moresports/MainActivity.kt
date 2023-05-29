@@ -21,6 +21,11 @@ class MainActivity : AppCompatActivity() {
             val inten = Intent(this, NovaNoticiaActivity::class.java)
             startActivity(inten)
         }
+
+        bt_ver_noticia.setOnClickListener {
+            val inten = Intent(this, NoticiasActivity::class.java)
+            startActivity(inten)
+        }
         supportActionBar!!.hide()
 
 
